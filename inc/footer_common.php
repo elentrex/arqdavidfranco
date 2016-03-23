@@ -23,7 +23,26 @@
 
 <script>
   /**********PRIMERA IMAGEN*************/
-
+  $('.bxslider19').bxSlider({
+    pagerCustom: '#bx-pager19',
+		adaptiveHeight: true
+  });
+  
+  $('.bxslider20').bxSlider({
+    pagerCustom: '#bx-pager20',
+		adaptiveHeight: true
+  });
+  
+  $('.bxslider21').bxSlider({
+    pagerCustom: '#bx-pager20',
+		adaptiveHeight: true
+  });
+  
+  $('.bxslider22').bxSlider({
+    pagerCustom: '#bx-pager20',
+		adaptiveHeight: true
+  });
+  
   $('.bxslider').bxSlider({
     pagerCustom: '#bx-pager',
 		adaptiveHeight: true
@@ -124,6 +143,14 @@
   });
   
   $(document).ready(function(){
+    
+  $('.slider20').bxSlider({
+    slideWidth: 150,
+    minSlides: 2,
+    maxSlides: 3,
+    slideMargin: 10
+  });
+    
   $('.slider1').bxSlider({
     slideWidth: 150,
     minSlides: 2,

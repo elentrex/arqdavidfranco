@@ -13,6 +13,78 @@
     
     <div class="container ajuste-img">
       <div class="row featurette-divider2">
+        <div class="col-md-7">
+          <blockquote>
+            <p class="lead">Park Bolivar Stage 1</p>
+          </blockquote>
+          
+          <div class="ficha2 col-md-10 col-md-offset-1 col-lg-10">
+            <p><b>Project name:</b> Park Bolivar</p>
+						<p><b>Company:</b> David Franco & Associated</p>
+						<p><b>Architect:</b> Arq. David Franco</p><br>
+						<p><b>Date of Elaboration:</b> 2015</p>
+						<p><b>Execution Date:</b> Construction</p>
+					</div><div class="clearfix"></div><br>
+          
+            <ul class="bxslider19">
+              <li><img class="img-padi" src="img/parquebolivar/parquebolivar.jpg" alt="Parque Bolivar"></li>
+              <li><img class="img-padi" src="img/parquebolivar/01.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/03.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Primera-etapa-del-Parque-Bolivar-Model1.jpg"></li>
+            </ul>
+          
+          <div class="slider20" id="bx-pager19">
+            <div class="slide">
+              <a data-slide-index="0" href=""><img src="img/parquebolivar/parquebolivar.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="1" href=""><img src="img/parquebolivar/01.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="2" href=""><img src="img/parquebolivar/03.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="3" href=""><img src="img/parquebolivar/Primera-etapa-del-Parque-Bolivar-Model1.jpg"></a></div>
+          </div></div>
+        
+        <div class="col-md-5">
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Coffee Bathrooms</b></p>            
+            <ul class="bxslider20">
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_03.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_04.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_05.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_06.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_09.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_10.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_11.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_12.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_13.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_18.jpg"></li>
+            </ul>
+          </div>
+          
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Cultural Center</b></p>            
+            <ul class="bxslider21">
+              <li><img class="img-padi" src="img/parquebolivar/Centrocultural/01.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Centrocultural/02.jpg"></li>
+            </ul>
+          </div>
+          
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Control Tower</b></p>            
+            <ul class="bxslider22">
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/01.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/02.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/03.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/04.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/06.jpg"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <hr class="row featurette-divider2">
+      
+      <div class="row featurette-divider2">
         <div class="col-md-6 col-lg-7">
           <ul class="bxslider">
             <li><img src="img/casadeuz/002-2.jpg" alt="Casa Deus"></li>
@@ -37,7 +109,7 @@
           
           <div class="ficha col-md-10 col-md-offset-1 col-lg-10">
             <p><b>Project name:</b> Home Deus</p>
-						<p><b>Company:</b> David Franco & Asociados</p>
+						<p><b>Company:</b> David Franco & Associated</p>
 						<p><b>Architect:</b> Arq. David Franco</p><br>
 						<p><b>Interior Architects and Partners</b></p>
 						<p>Arq. Jessica Garcia-Barrera</p>
@@ -84,7 +156,7 @@
           
           <div class="ficha2 col-lg-8 col-lg-offset-1">
             <p><b>Project name:</b> Bakery Tower Express</p>
-            <p><b>Company:</b> David Franco & Asociados</p><br>
+            <p><b>Company:</b> David Franco & Associated</p><br>
             <p><b>Architects</b></p> 
             <p class="tab">Arq. David Franco</p>
 						<p class="tab">Arq. Jessica Garcia-Barrera</p>
@@ -180,7 +252,7 @@
           
           <div class="ficha col-md-10 col-md-offset-1 col-lg-10">
             <p><b>Project name:</b> Mall Guatire</p>
-            <p><b>Company:</b> David Franco & Asociados</p><br>
+            <p><b>Company:</b> David Franco & Associated</p><br>
             <p><b>Architects</b></p>
             <p>Arq. David Franco</p>
 						<p>Arq. Lucia Tirado</p><br>
@@ -211,10 +283,12 @@
             <div class="slide">
               <a data-slide-index="9" href=""><img src="img/ccGuatire/IMG_5564-1.png"></a></div>
             <div class="slide">
-              <a data-slide-index="10" href=""><img src="img/ccGuatire/Corte-2-1.png"></a></div>               <div class="slide">
+              <a data-slide-index="10" href=""><img src="img/ccGuatire/Corte-2-1.png"></a></div>               
+            <div class="slide">
               <a data-slide-index="11" href=""><img src="img/ccGuatire/Cortes-1-1.png"></a></div>
             <div class="slide">
-              <a data-slide-index="12" href=""><img src="img/ccGuatire/mini/Fachada-01.jpg"></a></div>             <div class="slide">
+              <a data-slide-index="12" href=""><img src="img/ccGuatire/mini/Fachada-01.jpg"></a></div>             
+            <div class="slide">
               <a data-slide-index="13" href=""><img src="img/ccGuatire/mini/Fachada-2.jpg"></a></div>
             <div class="slide">
               <a data-slide-index="14" href=""><img src="img/ccGuatire/mini/Planta-alta-Gym.jpg"></a></div>

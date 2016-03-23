@@ -14,6 +14,78 @@
     
     <div class="container ajuste-img">
       <div class="row featurette-divider2">
+        <div class="col-md-7">
+          <blockquote>
+            <p class="lead">Parque Bolivar Etapa 1</p>
+          </blockquote>
+          
+          <div class="ficha2 col-md-10 col-md-offset-1 col-lg-10">
+            <p><b>Nombre del Proyecto:</b> Parque Bolivar Etapa 1</p>
+						<p><b>Empresa:</b> David Franco & Asociados</p>
+						<p><b>Arquitecto:</b> Arq. David Franco</p><br>
+						<p><b>Fecha de Elaboración:</b> 2015</p>
+						<p><b>Fecha de Ejecución:</b> En Construcción</p>
+					</div><div class="clearfix"></div><br>
+          
+            <ul class="bxslider19">
+              <li><img class="img-padi" src="img/parquebolivar/parquebolivar.jpg" alt="Parque Bolivar"></li>
+              <li><img class="img-padi" src="img/parquebolivar/01.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/03.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Primera-etapa-del-Parque-Bolivar-Model1.jpg"></li>
+            </ul>
+          
+          <div class="slider20" id="bx-pager19">
+            <div class="slide">
+              <a data-slide-index="0" href=""><img src="img/parquebolivar/parquebolivar.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="1" href=""><img src="img/parquebolivar/01.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="2" href=""><img src="img/parquebolivar/03.jpg"></a></div>
+            <div class="slide">
+              <a data-slide-index="3" href=""><img src="img/parquebolivar/Primera-etapa-del-Parque-Bolivar-Model1.jpg"></a></div>
+          </div></div>
+        
+        <div class="col-md-5">
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Baños Cafe</b></p>            
+            <ul class="bxslider20">
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_03.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_04.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_05.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_06.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_09.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_10.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_11.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_12.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_13.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Banoscafe/IMG_18.jpg"></li>
+            </ul>
+          </div>
+          
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Centro Cultural</b></p>            
+            <ul class="bxslider21">
+              <li><img class="img-padi" src="img/parquebolivar/Centrocultural/01.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Centrocultural/02.jpg"></li>
+            </ul>
+          </div>
+          
+          <div class="col-md-10 col-md-offset-1">
+          <p><b>Torre de Control</b></p>            
+            <ul class="bxslider22">
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/01.jpg" alt="Parque Bolivar Etapa 1"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/02.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/03.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/04.jpg"></li>
+              <li><img class="img-padi" src="img/parquebolivar/Torredecontrolcafe/06.jpg"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <hr class="row featurette-divider2">
+      
+      <div class="row featurette-divider2">
         <div class="col-md-6 col-lg-7">
           <ul class="bxslider">
             <li><img src="img/casadeuz/002-2.jpg" alt="Casa Deus"></li>

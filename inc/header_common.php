@@ -1,10 +1,9 @@
 <link rel="shortcut icon" href="img/favicon3.ico">
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
 <!--Zona de bootstrap
 <link rel="stylesheet" href="css/bootstrap.min.css">-->
-
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 
 <!-- Zona de las Tipografias
 <link href='http://fonts.googleapis.com/css?family=Baumans' rel='stylesheet' type='text/css'>
