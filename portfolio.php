@@ -20,8 +20,8 @@
           
           <div class="ficha2 col-md-10 col-md-offset-1 col-lg-10">
             <p><b>Project name:</b> Park Bolivar</p>
-						<p><b>Company:</b> David Franco & Associated</p>
-						<p><b>Architect:</b> Arq. David Franco</p><br>
+						<p><b>Company:</b> Morales Morales & Associated</p>
+						<p><b>Architect:</b> OPPPE</p><br>
 						<p><b>Date of Elaboration:</b> 2015</p>
 						<p><b>Execution Date:</b> Construction</p>
 					</div><div class="clearfix"></div><br>
@@ -160,8 +160,6 @@
             <p><b>Architects</b></p> 
             <p class="tab">Arq. David Franco</p>
 						<p class="tab">Arq. Jessica Garcia-Barrera</p>
-						<p class="tab">Arq. Jorge Luis de Sousa</p>
-						<p class="tab">Arq. Andres Antonio Sousa</p><br>
 						<p><b>Date of Elaboration:</b> 2015</p>
 						<p><b>Execution Date:</b> Construction</p>
 					</div>

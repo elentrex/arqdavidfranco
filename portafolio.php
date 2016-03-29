@@ -20,9 +20,9 @@
           </blockquote>
           
           <div class="ficha2 col-md-10 col-md-offset-1 col-lg-10">
-            <p><b>Nombre del Proyecto:</b> Parque Bolivar Etapa 1</p>
-						<p><b>Empresa:</b> David Franco & Asociados</p>
-						<p><b>Arquitecto:</b> Arq. David Franco</p><br>
+            <p><b>Nombre del Proyecto:</b> Parque Bolivar</p>
+						<p><b>Empresa:</b> Morales Morales & Asociados</p>
+						<p><b>Arquitecto:</b> OPPPE</p><br>
 						<p><b>Fecha de Elaboración:</b> 2015</p>
 						<p><b>Fecha de Ejecución:</b> En Construcción</p>
 					</div><div class="clearfix"></div><br>
@@ -161,8 +161,6 @@
             <p><b>Arquitectos</b></p> 
             <p class="tab">Arq. David Franco</p>
 						<p class="tab">Arq. Jessica Garcia-Barrera</p>
-						<p class="tab">Arq. Jorge Luis de Sousa</p>
-						<p class="tab">Arq. Andres Antonio Sousa</p><br>
 						<p><b>Fecha de Elaboración:</b> 2015</p>
 						<p><b>Fecha de Ejecución:</b> En Construcción</p>
 					</div>
